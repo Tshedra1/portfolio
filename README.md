@@ -1,4 +1,4 @@
-# NHANES / Cystic Fibrosis Analysis: Obesity, Lung Function, and Respiratory Strength
+# Cystic Fibrosis Analysis: Obesity, Lung Function, and Respiratory Strength
 
 ## 📌 Overview
 
