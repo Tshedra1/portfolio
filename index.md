@@ -78,7 +78,7 @@ FEV1 was a significant predictor of respiratory muscle strength, indicating that
 
 ## 💻 Code
 
-👉 [View full analysis on GitHub]https://github.com/Tshedra1/nhanes-obesity-hypertension
+👉 [View full portfolio](https://github.com/Tshedra1/portfolio)
 
 ---
 
